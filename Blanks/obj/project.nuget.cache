@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wQtmnsM2d9pE1JA85lBGdxO32aEnd7txatfuNUUn3XoIddtYAka94WG3660BswtFKMj1MzoczbZd0TOQCUZLMQ==",
+  "success": true,
+  "projectFilePath": "D:\\Repository Files\\Blanks\\Blanks\\Blanks\\Blanks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ainashi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ainashi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
